@@ -13,7 +13,7 @@ const SectionWrapper = ({title, description, mockupImg, banner, showBtn}) => {
             {showBtn &&(
                <Buttonx
                 assetsUrl = {assets.expo}
-                link = "https://drive.google.com/file/d/1SVQ19AJkMhiLeJtZlTorlNDrmulipKM-/view?usp=sharing"
+                link = https://drive.google.com/file/d/1SVQ19AJkMhiLeJtZlTorlNDrmulipKM-/view?usp=sharing"
             />)}
             </div>
             <div className={` flex-1 ${styles.flexCenter} p-8 sm:px-0`}>
